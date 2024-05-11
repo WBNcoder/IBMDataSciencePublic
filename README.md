@@ -1,1 +1,1 @@
-This is Jupiter Notebook file that is part of the IBM Data Science Professional Certiicate
+This is a Repo for Jupyter Notebook files that are part of the IBM Data Science Professional Certiicate project
